@@ -26,6 +26,4 @@ scalability.
 > Frontint.uz Frontend Course
 ## Skills:
 ###### `Programming Languages:` JavaScript(Advanced), TypeScript, HTML, CSS, Python, SQL.
-###### `Technologies and Frameworks:` React.js, Redux/toolkit, React Query, Next.js, Webpack, CSS UI
-frameworks, Sass, Node.js, Express.js, Testing (Jest), Git, Github Actions, CI/CD, Docker, SSR, CSR,
-SPA.
+###### `Technologies and Frameworks:` React.js, Redux/toolkit, React Query, Next.js, Webpack, CSS UI frameworks, Sass, Node.js, Express.js, Testing (Jest), Git, Github Actions, CI/CD, Docker, SSR, CSR, SPA.
