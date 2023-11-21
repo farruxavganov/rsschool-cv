@@ -22,8 +22,8 @@ workflow and ensuring reliable releases.
 - Conducted code reviews and provided constructive feedback to enhance code quality, maintainability, and
 scalability.
 ## Education:
-> Udemy Full-Stack Web Development Course.
-> Frontint.uz Frontend Course
+> `Udemy:` Full-Stack Web Development Course.
+> `Frontint.uz:` Frontend Course
 ## Skills:
 ###### `Programming Languages:` JavaScript(Advanced), TypeScript, HTML, CSS, Python, SQL.
 ###### `Technologies and Frameworks:` React.js, Redux/toolkit, React Query, Next.js, Webpack, CSS UI frameworks, Sass, Node.js, Express.js, Testing (Jest), Git, Github Actions, CI/CD, Docker, SSR, CSR, SPA.
